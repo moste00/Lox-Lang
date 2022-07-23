@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94a989e9-524a-4469-b98f-df738f5cb178" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_kotlintest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-13.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.6.5-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-agent-1.6.5-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-agent-1.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/guava-20.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/guava-20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.21.0-GA-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-1.1.51-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-1.1.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-1.1.51-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-1.1.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlintest-2.0.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlintest-2.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mockito-core-2.7.11-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mockito-core-2.7.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/objenesis-2.5-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/objenesis-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/reflections-0.9.11-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/reflections-0.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/ast/expr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/ast/exprVisitor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/ast/stmt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/ast/stmtVisitor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/entry/Lox.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/entry/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/interpreter/Environment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/interpreter/LoxCallable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/interpreter/LoxFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/interpreter/LoxPrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/interpreter/interpreter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/lex/Lexer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/lex/LexerError.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/lex/Token.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/misc/PrettyPrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/parser/Parser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/lang/semantica/SemanticAnalyzer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/my/lox/tools/ASTGen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/ScannerTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="module-info" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2C2RO6FjNDFrpk078rEJGePPZEv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "D:/Lox/src/main/kotlin/my/lox/lang/interpreter",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.38965517"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ASTGenKt">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScannerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lox" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ASTGenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.lox.tools.ASTGenKt" />
+      <module name="Lox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.lox.lang.entry.MainKt" />
+      <module name="Lox" />
+      <option name="PROGRAM_PARAMETERS" value="input.lox" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ScannerTest" />
+      <item itemvalue="Kotlin.ASTGenKt" />
+      <item itemvalue="Kotlin.MainKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ASTGenKt" />
+        <item itemvalue="JUnit.ScannerTest" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94a989e9-524a-4469-b98f-df738f5cb178" name="Changes" comment="" />
+      <created>1657998664160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657998664160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
